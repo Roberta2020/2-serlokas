@@ -11,7 +11,7 @@ Project is for educational purpose only.
 
 Site published at https://roberta2020.github.io/2-serlokas/
 
-Design: [Sign up] (https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
+Design: [Sign up] (https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
 
 ## Project features
 - css coomponents
